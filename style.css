@@ -1,0 +1,68 @@
+body{
+background-color:lightgrey;
+font-family: Avenir;
+font-size:16px;
+}
+
+h1{
+	font-family:Avenir;
+	font-style:italic;
+}
+h2{font-family: Avenir;
+	color: black;
+
+}
+h3{
+	font-family: avenir next;
+	color: black
+}
+
+p{
+	text-decoration:none;
+	color:grey;
+	font-style: italic;
+}
+
+}
+a{
+	color: darkblue;
+	
+
+}
+
+.container{ 
+	width: 600px;
+	margin: 70px auto;
+}
+.card-white{
+	background-color:white;
+	padding:40px;
+	box-shadow: 0px 10px 30px;
+	margin: 20px;
+	text-align: center;
+}
+.img-circle{
+	border-radius: 50%;
+}
+.btn-blue:hover {
+	background-color: blue;
+	color:white;
+}
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li{
+	display: inline;
+	padding: 0px;
+}
+.list-inline i{
+	font-size: 40px;
+	color:grey;
+
+}
+.list-inline i:hover{
+	font-size: 40px;
+	color:black;
+
+
